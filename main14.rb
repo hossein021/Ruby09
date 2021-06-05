@@ -1,17 +1,17 @@
 # آرایه ها در روبی
 
-# myarray = Array['a','b','c']
-# puts myarray
-#
-# puts "#{myarray}"
-#
-# a = Array(0..9)
-# puts a
-# puts "#{a}"
+myarray = Array['a','b','c']
+puts myarray
 
-# x = Array.new(20)
-# puts x
-# puts "#{x}"
+puts "#{myarray}"
+
+a = Array(0..9)
+puts a
+puts "#{a}"
+
+x = Array.new(20)
+puts x
+puts "#{x}"
 
 name = Array.new(4, "Ali")
 puts "#{name}"
